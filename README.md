@@ -1,6 +1,6 @@
 # InNOutBooks
 
-GHPage: https://a-rayamajhi.github.io/in-n-out-books
+GHPage: https://a-rayamajhi.github.io/in-n-out-books/
 
 Portfolio: https://a-rayamajhi.github.io/
 <br />
